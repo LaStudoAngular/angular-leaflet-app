@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  URL: './assets/data/usa-state-capitals.geojson',
 };
